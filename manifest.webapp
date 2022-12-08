@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "name": "Mortar TabView Template",
+  "description": "A template with a tabbed layout",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/mortar-16.png",
+    "48": "/img/icons/mortar-48.png",
+    "60": "/img/icons/mortar-60.png",
+    "128": "/img/icons/mortar-128.png"
+  },
+  "developer": {
+    "name": "Mozilla",
+    "url": "http://mozilla.org"
+  },
+  "type": "web",
+  "installs_allowed_from": ["*"],
+  "locales": {
+    "es": {
+      "description": "Una plantilla con una interfaz basada en pestañas"
+    }
+  },
+  "default_locale": "en"
+}
+
